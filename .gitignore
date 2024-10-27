@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.idea
+/.vs
+/src/.aws-sam
+/src/CodingChallenge.Classroom.Api/.aws-sam
+/src/CodingChallenge.Classroom.Api/bin/Debug/net8.0
+/src/CodingChallenge.Classroom.Api/obj
+/src/CodingChallenge.Classroom.Application/obj
+/src/CodingChallenge.Classroom.Domain/bin/Debug/net8.0
+/src/CodingChallenge.Classroom.Domain/obj
+/src/CodingChallenge.Classroom.Infrastructure/bin/Debug/net8.0
+/src/CodingChallenge.Classroom.Infrastructure/obj
+/test/CodingChallenge.Classroom.Tests/bin/Debug/net8.0
+/test/CodingChallenge.Classroom.Tests/obj/Debug/net8.0
+/test/CodingChallenge.Classroom.Tests/obj/Release/net8.0
+/test/CodingChallenge.Classroom.Tests/obj
